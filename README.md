@@ -1,9 +1,9 @@
 # Hi, I'm Keerthana 👋
 
-🎓 AI & Data Science Student  
-💻 Python | Power BI | Machine Learning | NLP  
-🌱 Currently exploring real-time AI applications  
-📈 Passionate about solving real-world problems with data
+ AI & Data Science Student  
+ Python | Power BI | Machine Learning | NLP  
+ Currently exploring real-time AI applications  
+ Passionate about solving real-world problems with data
 
 ## 🔧 Tech Stack
 - Python, Pandas, Scikit-learn, Matplotlib, Numpy
