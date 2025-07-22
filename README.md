@@ -11,7 +11,7 @@
 - Git, GitHub
 
 ##  Projects
-- [AI Virtual Interviewer](https://github.com/Keerthana-147/ai-interview-question-generator)
+- [AI Virtual Interviewer Question generator](https://github.com/Keerthana-147/ai-interview-question-generator)
 - [Real-Time Object Detection](#)
 - [Grammar Correction NLP Tool](#)
 
