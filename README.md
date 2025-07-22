@@ -5,15 +5,15 @@
  Currently exploring real-time AI applications  
  Passionate about solving real-world problems with data
 
-## 🔧 Tech Stack
+##  Tech Stack
 - Python, Pandas, Scikit-learn, Matplotlib, Numpy
 - Power BI, MySQL
 - Git, GitHub
 
-## 📌 Projects
+##  Projects
 - [AI Virtual Interviewer](#)
 - [Real-Time Object Detection](#)
 - [Grammar Correction NLP Tool](#)
 
-## 📫 Let's Connect
+##  Let's Connect
 [LinkedIn](https://www.linkedin.com/in/keerthana183/)
